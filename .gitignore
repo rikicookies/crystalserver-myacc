@@ -1,5 +1,6 @@
 Thumbs.db
 .DS_Store
+config.local.php
 .idea
 # git rm --cached -r .idea
 
